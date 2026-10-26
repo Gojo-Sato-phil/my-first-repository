@@ -25,3 +25,8 @@
 ## My Favorite Technology
 
 - My favorite technology is a PC. PC allows me to play the games i want without any trouble depending on the game quality and my PC specs. I am also able to utilize PC in terns of school works allowing me to finish school works faster compared to using a phone.
+
+
+## Reflection
+
+- GitHub keeps track on the changes that I make on my file making it easier to track especially when problems arise like accidentally deleting files.
